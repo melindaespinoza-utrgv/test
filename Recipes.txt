@@ -5,5 +5,7 @@ Welcome to My Kitchen
 Pasta
 Chicken
 
+Beans
+Rice
 
 Thank you
